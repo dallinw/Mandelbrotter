@@ -11,7 +11,7 @@ Uses touch input to zoom in on selected point
 
 Used to evaluate Arduino Uno as a platform for upcoming ISEC projects
 
-![Mandel](https://github.com/dallinw/Mandelbrotter/blob/master/Mbrot2.JPEG)
+![Mandel](https://github.com/dallinw/Mandelbrotter/blob/master/Mbrot2.jpg)
 
 
 ![Mandel](https://github.com/dallinw/Mandelbrotter/blob/master/Mbrot3.JPEG)
